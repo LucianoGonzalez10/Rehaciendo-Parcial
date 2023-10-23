@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698073227 source:c:\users\gonza\onedrive\documentos\rehaciendo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
